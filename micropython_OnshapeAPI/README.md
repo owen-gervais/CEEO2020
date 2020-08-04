@@ -7,7 +7,7 @@ Download both the **onshape.py** and **creds.json** and fill in your indiviudal 
 If you do not have developer keys, you can get them here from the [Developer Portal](https://dev-portal.onshape.com/).
 
 ## Running the Client:
-Once completed download these files to the EV3 and run from the terminal with the command
+Once completed, download these files to the EV3 either by creating a new project in vscode or through **scp**. SSH into your robot and run the following command from the commandline,
 
 ```bash
 brickrun -r -- pybricks-micropython onshape.py
