@@ -4,7 +4,7 @@ This work is an in-progress translation of Onshape API in micropython. Currently
 
 ## Installation: 
 Download both the ***onshape.py*** and ***creds.json*** and fill in your indiviudal Onshape developer access and secret keys.
-If you do not have developer keys, you can get them here from the [Developer Portal](https://dev-portal.onshape.com/)
+If you do not have developer keys, you can get them here from the [Developer Portal](https://dev-portal.onshape.com/).
 
 ## Running the Client:
 Once completed download these files to the EV3 and run from the terminal with the command
