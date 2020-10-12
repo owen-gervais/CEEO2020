@@ -3,6 +3,8 @@
 Utilizing the built LEGO SPIKE Prime Models, I used the Onshape-to-Robot plugin to export Robotic Assemblies to sdf's and imports
 and into Gazebo for simulation.
 
+Click here to see a video of this [demo](https://www.youtube.com/watch?v=SlG5cxGIg5A&feature=youtu.be) 
+
 ## Installation of ROS2
 
 This the step by step process of installing the required componnents to run this simulation. 
